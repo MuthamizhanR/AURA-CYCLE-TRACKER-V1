@@ -1,0 +1,6 @@
+{
+  "name": "Aura Cycle Tracker",
+  "description": "A cycle tracker designed for PCOS with a Bayesian prediction engine and partner vibe sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
